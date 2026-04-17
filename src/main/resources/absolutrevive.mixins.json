@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "goetic.mods.absolutrevive.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ItemEntityMixin",
+    "LivingEntityHealthMixin",
+    "MobTargetMixin",
+    "PlayerDimensionsMixin",
+    "PlayerEntityMixin",
+    "ServerGamePacketListenerImplMixin"
+  ],
+  "client": [
+    "client.MinecraftMixin",
+    "client.AvatarRendererMixin",
+    "client.LivingEntityRendererMixin",
+    "client.LivingEntityRendererStateMixin",
+    "client.MouseHandlerMixin",
+    "client.PlayerModelMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

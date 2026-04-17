@@ -1,0 +1,50 @@
+{
+  "itemGroup.absolutrevive": "急救",
+  "item.absolutrevive.bandage": "绷带",
+  "item.absolutrevive.plaster": "石膏",
+  "item.absolutrevive.defibrillator": "除颤器",
+  "item.absolutrevive.adrenaline_injector": "肾上腺素注射器",
+  "item.absolutrevive.morphine": "吗啡",
+  "item.absolutrevive.painkillers": "止痛药",
+
+  "keybinds.give_up": "放弃挣扎",
+
+  "subtitles.debuff.heartbeat": "心跳",
+  "subtitles.debuff.search": "正在搜身",
+
+  "absolutrevive.gui.loot": "%s 的物品栏",
+  "absolutrevive.gui.loot.armor": "← 盔甲",
+  "absolutrevive.gui.loot.main_inventory": "↓ 主物品栏 ↓",
+  "absolutrevive.gui.loot.hotbar": "↓↓ 最下方的快捷栏 ↓↓",
+  "absolutrevive.gui.loot.main_hand": "主手 (已锁定)",
+  "absolutrevive.gui.loot.off_hand": "副手 (已锁定)",
+
+  "absolutrevive.gui.unconscious": "昏迷中",
+  "absolutrevive.gui.critical_condition": "生命垂危",
+  "absolutrevive.gui.stabilizing": "正在稳定",
+  "absolutrevive.gui.unconscious_left": "%s 后苏醒",
+  "absolutrevive.gui.death_countdown_seconds": "%s 秒后死亡",
+  "absolutrevive.gui.unconscious_hint": "你已昏迷。",
+  "absolutrevive.gui.waiting_for_rescue": "正在等待救援或被搜刮……",
+  "absolutrevive.gui.rescue_help": "其他玩家可以救援你(8秒)、使用除颤器(3秒)或搜刮你。",
+  "absolutrevive.gui.give_up_hint": "按住 %s 3 秒可放弃挣扎",
+  "absolutrevive.gui.give_up_progress": "放弃中：%s / %s 秒",
+
+  "absolutrevive.gui.rescue_other": "你已稳定 %s 的伤势。",
+  "absolutrevive.gui.rescue_received": "%s 已将你救起。",
+  "absolutrevive.gui.execute_other": "你已处决 %s。",
+  "absolutrevive.gui.execute_received": "%s 已将你处决。",
+
+  "absolutrevive.gui.rescue_prompt_title": "救援 %s",
+  "absolutrevive.gui.rescue_prompt_item": "请手持治疗物品开始救援。",
+  "absolutrevive.gui.execute_prompt_title": "处决 %s",
+  "absolutrevive.gui.rescue_execute_prompt_title": "%1$s或%2$s %3$s",
+  "absolutrevive.gui.rescue_execute_prompt_item": "请手持治疗物品进行%1$s，或手持武器或工具进行%2$s。",
+  "absolutrevive.gui.rescue_prompt_crouch": "请在目标身旁潜行 %s 秒。",
+  "absolutrevive.gui.execute_prompt_crouch": "请在目标身旁潜行 %s 秒以完成处决。",
+  "absolutrevive.gui.rescue_progress": "救援中：%s / %s 秒",
+  "absolutrevive.gui.execute_progress": "处决中：%s / %s 秒",
+  "absolutrevive.gui.prompt_action_rescue": "救援",
+  "absolutrevive.gui.prompt_action_execute": "处决",
+  "absolutrevive.jei.defibrillator.desc": "在昏迷的玩家身旁潜行 3 秒以进行救援。目标苏醒时将恢复 4 颗心的生命值。该物品可使用 3 次。"
+}

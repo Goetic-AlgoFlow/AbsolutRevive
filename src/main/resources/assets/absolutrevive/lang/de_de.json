@@ -1,0 +1,50 @@
+{
+  "itemGroup.absolutrevive": "Erste Hilfe",
+  "item.absolutrevive.bandage": "Bandage",
+  "item.absolutrevive.plaster": "Pflaster",
+  "item.absolutrevive.defibrillator": "Defibrillator",
+  "item.absolutrevive.adrenaline_injector": "Adrenalin-Injektor",
+  "item.absolutrevive.morphine": "Morphium",
+  "item.absolutrevive.painkillers": "Schmerzmittel",
+
+  "keybinds.give_up": "Aufgeben",
+
+  "subtitles.debuff.heartbeat": "Herzklopfen",
+  "subtitles.debuff.search": "Durchsuchen...",
+
+  "absolutrevive.gui.loot": "Inventar von %s",
+  "absolutrevive.gui.loot.armor": "← Rüstung",
+  "absolutrevive.gui.loot.main_inventory": "↓ Hauptinventar ↓",
+  "absolutrevive.gui.loot.hotbar": "↓↓ Schnellzugriffsleiste ganz unten ↓↓",
+  "absolutrevive.gui.loot.main_hand": "Haupthand (Blockiert)",
+  "absolutrevive.gui.loot.off_hand": "Nebenhand (Blockiert)",
+
+  "absolutrevive.gui.unconscious": "BEWUSSTLOS",
+  "absolutrevive.gui.critical_condition": "KRITISCHER ZUSTAND",
+  "absolutrevive.gui.stabilizing": "STABILISIEREN",
+  "absolutrevive.gui.unconscious_left": "Erholung in %s",
+  "absolutrevive.gui.death_countdown_seconds": "Tod in %s s",
+  "absolutrevive.gui.unconscious_hint": "Du bist bewusstlos.",
+  "absolutrevive.gui.waiting_for_rescue": "Warten auf Rettung oder Durchsuchung...",
+  "absolutrevive.gui.rescue_help": "Ein Spieler kann dich wiederbeleben (8s), einen Defibrillator nutzen (3s) oder dich durchsuchen.",
+  "absolutrevive.gui.give_up_hint": "Halte %s für 3 Sekunden, um aufzugeben.",
+  "absolutrevive.gui.give_up_progress": "Aufgeben: %s / %s s",
+
+  "absolutrevive.gui.rescue_other": "Du hast %s stabilisiert.",
+  "absolutrevive.gui.rescue_received": "%s hat dich gerettet.",
+  "absolutrevive.gui.execute_other": "Du hast %s hingerichtet.",
+  "absolutrevive.gui.execute_received": "%s hat dich hingerichtet.",
+
+  "absolutrevive.gui.rescue_prompt_title": "Rette %s",
+  "absolutrevive.gui.rescue_prompt_item": "Halte ein Heilmittel, um zu retten.",
+  "absolutrevive.gui.execute_prompt_title": "Richte %s hin",
+  "absolutrevive.gui.rescue_execute_prompt_title": "%1$s oder %2$s %3$s",
+  "absolutrevive.gui.rescue_execute_prompt_item": "Halte ein Heilmittel um zu %1$s, oder eine Waffe/Werkzeug um zu %2$s.",
+  "absolutrevive.gui.rescue_prompt_crouch": "Schleiche %s Sekunden lang neben dem Ziel.",
+  "absolutrevive.gui.execute_prompt_crouch": "Schleiche %s Sekunden lang neben dem Ziel, um es hinzurichten.",
+  "absolutrevive.gui.rescue_progress": "Rettung: %s / %s s",
+  "absolutrevive.gui.execute_progress": "Hinrichtung: %s / %s s",
+  "absolutrevive.gui.prompt_action_rescue": "retten",
+  "absolutrevive.gui.prompt_action_execute": "hinrichten",
+  "absolutrevive.jei.defibrillator.desc": "Schleiche 3 Sekunden lang neben einem bewusstlosen Spieler, um ihn wiederzubeleben. Das Ziel wacht mit 4 Herzen Leben auf. Der Gegenstand hat 3 Nutzungen."
+}

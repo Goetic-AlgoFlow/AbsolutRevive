@@ -1,0 +1,27 @@
+{
+  "debuff.heartbeat": {
+    "sounds": [
+      {
+        "name": "absolutrevive:heartbeat",
+        "preload": "true"
+      }
+    ],
+    "subtitle": "subtitles.debuff.heartbeat"
+  },
+  "debuff.search": {
+    "sounds": [
+      {
+        "name": "absolutrevive:search",
+        "preload": "true"
+      }
+    ],
+    "subtitle": "subtitles.debuff.search"
+  },
+  "defibrillator_use": {
+    "sounds": [
+      {
+        "name": "absolutrevive:defibrillator_use"
+      }
+    ]
+  }
+}

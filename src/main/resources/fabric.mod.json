@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "absolutrevive",
+  "version": "${version}",
+  "name": "Absolut Revive",
+  "description": "Absolut Revive is a vanilla mod focused on a new level revive system",
+  "authors": [
+    "goetic"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/user/Goetic",
+    "issues": "https://modrinth.com/user/Goetic"
+  },
+  "license": "GPL-3.0-or-later",
+  "icon": "mod_logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "goetic.mods.absolutrevive.fabric.AbsolutReviveFabricEntrypoint"
+    ],
+    "client": [
+      "goetic.mods.absolutrevive.fabric.AbsolutReviveFabricClientEntrypoint"
+    ]
+  },
+  "mixins": [
+    "absolutrevive.mixins.json"
+  ],
+  "accessWidener": "absolutrevive.accesswidener",
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "itemGroup.absolutrevive": "Первая помощь",
+  "item.absolutrevive.bandage": "Бинт",
+  "item.absolutrevive.plaster": "Пластырь",
+  "item.absolutrevive.defibrillator": "Дефибриллятор",
+  "item.absolutrevive.adrenaline_injector": "Инъектор адреналина",
+  "item.absolutrevive.morphine": "Морфин",
+  "item.absolutrevive.painkillers": "Обезболивающие",
+
+  "keybinds.give_up": "Сдаться",
+
+  "subtitles.debuff.heartbeat": "Сердцебиение",
+  "subtitles.debuff.search": "Обыск...",
+
+  "absolutrevive.gui.loot": "Инвентарь: %s",
+  "absolutrevive.gui.loot.armor": "← Броня",
+  "absolutrevive.gui.loot.main_inventory": "↓ Основной инвентарь ↓",
+  "absolutrevive.gui.loot.hotbar": "↓↓ Панель быстрого доступа в самом низу ↓↓",
+  "absolutrevive.gui.loot.main_hand": "Главная рука (Заблокировано)",
+  "absolutrevive.gui.loot.off_hand": "Вторая рука (Заблокировано)",
+
+  "absolutrevive.gui.unconscious": "БЕЗ СОЗНАНИЯ",
+  "absolutrevive.gui.critical_condition": "КРИТИЧЕСКОЕ СОСТОЯНИЕ",
+  "absolutrevive.gui.stabilizing": "СТАБИЛИЗАЦИЯ",
+  "absolutrevive.gui.unconscious_left": "Восстановление через %s",
+  "absolutrevive.gui.death_countdown_seconds": "Смерть через %s с",
+  "absolutrevive.gui.unconscious_hint": "Вы без сознания.",
+  "absolutrevive.gui.waiting_for_rescue": "Ожидание спасения или обыска...",
+  "absolutrevive.gui.rescue_help": "Игрок может вас реанимировать (8с), использовать дефибриллятор (3с) или обыскать вас.",
+  "absolutrevive.gui.give_up_hint": "Удерживайте %s 3 секунды, чтобы сдаться.",
+  "absolutrevive.gui.give_up_progress": "Вы сдаётесь: %s / %s с",
+
+  "absolutrevive.gui.rescue_other": "Вы стабилизировали %s.",
+  "absolutrevive.gui.rescue_received": "%s спас вас.",
+  "absolutrevive.gui.execute_other": "Вы добили %s.",
+  "absolutrevive.gui.execute_received": "%s добил вас.",
+
+  "absolutrevive.gui.rescue_prompt_title": "Спасти %s",
+  "absolutrevive.gui.rescue_prompt_item": "Держите предмет лечения, чтобы спасти.",
+  "absolutrevive.gui.execute_prompt_title": "Добить %s",
+  "absolutrevive.gui.rescue_execute_prompt_title": "%1$s или %2$s %3$s",
+  "absolutrevive.gui.rescue_execute_prompt_item": "Держите предмет лечения, чтобы %1$s, или оружие/инструмент, чтобы %2$s.",
+  "absolutrevive.gui.rescue_prompt_crouch": "Присядьте рядом с целью на %s секунд.",
+  "absolutrevive.gui.execute_prompt_crouch": "Присядьте рядом с целью на %s секунд, чтобы добить.",
+  "absolutrevive.gui.rescue_progress": "Спасение: %s / %s с",
+  "absolutrevive.gui.execute_progress": "Добивание: %s / %s с",
+  "absolutrevive.gui.prompt_action_rescue": "спасти",
+  "absolutrevive.gui.prompt_action_execute": "добить",
+  "absolutrevive.jei.defibrillator.desc": "Присядьте рядом с игроком без сознания на 3 секунды, чтобы реанимировать его. Цель очнется с 4 сердцами здоровья. Предмет имеет 3 использования."
+}

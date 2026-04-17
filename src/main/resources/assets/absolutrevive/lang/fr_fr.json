@@ -1,0 +1,50 @@
+{
+  "itemGroup.absolutrevive": "First Aid",
+  "item.absolutrevive.bandage": "Bandage",
+  "item.absolutrevive.plaster": "Pansement",
+  "item.absolutrevive.defibrillator": "Défibrillateur",
+  "item.absolutrevive.adrenaline_injector": "Injecteur d'Adrénaline",
+  "item.absolutrevive.morphine": "Morphine",
+  "item.absolutrevive.painkillers": "Antidouleurs",
+
+  "keybinds.give_up": "Abandonner",
+
+  "subtitles.debuff.heartbeat": "Le cœur bat",
+  "subtitles.debuff.search": "Fouille en cours",
+
+  "absolutrevive.gui.loot": "Inventaire de %s",
+  "absolutrevive.gui.loot.armor": "← Armures",
+  "absolutrevive.gui.loot.main_inventory": "↓ Inventaire principal ↓",
+  "absolutrevive.gui.loot.hotbar": "↓↓ Barre d'action tout en bas ↓↓",
+  "absolutrevive.gui.loot.main_hand": "Main droite (Bloquée)",
+  "absolutrevive.gui.loot.off_hand": "Main gauche (Bloquée)",
+
+  "absolutrevive.gui.unconscious": "INCONSCIENT",
+  "absolutrevive.gui.critical_condition": "ÉTAT CRITIQUE",
+  "absolutrevive.gui.stabilizing": "STABILISATION",
+  "absolutrevive.gui.unconscious_left": "Récupération dans %s",
+  "absolutrevive.gui.death_countdown_seconds": "Mort dans %s s",
+  "absolutrevive.gui.unconscious_hint": "Vous êtes inconscient.",
+  "absolutrevive.gui.waiting_for_rescue": "En attente de réanimation ou de fouille...",
+  "absolutrevive.gui.rescue_help": "Un joueur peut vous réanimer (8s), utiliser un défibrillateur (3s) ou vous fouiller.",
+  "absolutrevive.gui.give_up_hint": "Maintenez %s pendant 3 secondes pour abandonner.",
+  "absolutrevive.gui.give_up_progress": "Abandon en cours : %s / %s s",
+
+  "absolutrevive.gui.rescue_other": "Vous avez stabilisé %s.",
+  "absolutrevive.gui.rescue_received": "%s vous a réanimé.",
+  "absolutrevive.gui.execute_other": "Vous avez exécuté %s.",
+  "absolutrevive.gui.execute_received": "%s vous a achevé.",
+
+  "absolutrevive.gui.rescue_prompt_title": "Réanimer %s",
+  "absolutrevive.gui.rescue_prompt_item": "Tenez un objet de soin pour réanimer.",
+  "absolutrevive.gui.execute_prompt_title": "Exécuter %s",
+  "absolutrevive.gui.rescue_execute_prompt_title": "%1$s ou %2$s %3$s",
+  "absolutrevive.gui.rescue_execute_prompt_item": "Tenez de quoi soigner pour %1$s, ou une arme/outil pour %2$s.",
+  "absolutrevive.gui.rescue_prompt_crouch": "Accroupissez-vous à côté de la cible pendant %s secondes.",
+  "absolutrevive.gui.execute_prompt_crouch": "Accroupissez-vous à côté de la cible pendant %s secondes pour exécuter.",
+  "absolutrevive.gui.rescue_progress": "Réanimation : %s / %s s",
+  "absolutrevive.gui.execute_progress": "Exécution : %s / %s s",
+  "absolutrevive.gui.prompt_action_rescue": "réanimer",
+  "absolutrevive.gui.prompt_action_execute": "exécuter",
+  "absolutrevive.jei.defibrillator.desc": "Accroupissez-vous à côté d'un joueur inconscient pendant 3 secondes pour le réanimer. La cible se relèvera avec 4 cœurs de vie. L'objet possède 3 utilisations."
+}

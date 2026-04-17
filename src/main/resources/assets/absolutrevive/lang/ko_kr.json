@@ -1,0 +1,50 @@
+{
+  "itemGroup.absolutrevive": "응급 처치",
+  "item.absolutrevive.bandage": "붕대",
+  "item.absolutrevive.plaster": "반창고",
+  "item.absolutrevive.defibrillator": "제세동기",
+  "item.absolutrevive.adrenaline_injector": "아드레날린 주사기",
+  "item.absolutrevive.morphine": "모르핀",
+  "item.absolutrevive.painkillers": "진통제",
+
+  "keybinds.give_up": "포기하기",
+
+  "subtitles.debuff.heartbeat": "심장이 두근거림",
+  "subtitles.debuff.search": "수색 중...",
+
+  "absolutrevive.gui.loot": "%s의 인벤토리",
+  "absolutrevive.gui.loot.armor": "← 갑옷",
+  "absolutrevive.gui.loot.main_inventory": "↓ 기본 인벤토리 ↓",
+  "absolutrevive.gui.loot.hotbar": "↓↓ 맨 아래 단축바 ↓↓",
+  "absolutrevive.gui.loot.main_hand": "주로 쓰는 손 (잠김)",
+  "absolutrevive.gui.loot.off_hand": "다른 손 (잠김)",
+
+  "absolutrevive.gui.unconscious": "의식 불명",
+  "absolutrevive.gui.critical_condition": "위독한 상태",
+  "absolutrevive.gui.stabilizing": "안정화 중",
+  "absolutrevive.gui.unconscious_left": "회복까지 %s 남음",
+  "absolutrevive.gui.death_countdown_seconds": "%s초 후 사망",
+  "absolutrevive.gui.unconscious_hint": "의식을 잃었습니다.",
+  "absolutrevive.gui.waiting_for_rescue": "구조를 기다리거나 수색당하는 중...",
+  "absolutrevive.gui.rescue_help": "다른 플레이어가 당신을 소생(8초)시키거나, 제세동기(3초)를 사용하거나, 수색할 수 있습니다.",
+  "absolutrevive.gui.give_up_hint": "포기하려면 %s를 3초 동안 누르세요.",
+  "absolutrevive.gui.give_up_progress": "포기 진행 중: %s / %s 초",
+
+  "absolutrevive.gui.rescue_other": "%s님을 안정시켰습니다.",
+  "absolutrevive.gui.rescue_received": "%s님이 당신을 구출했습니다.",
+  "absolutrevive.gui.execute_other": "%s님을 처형했습니다.",
+  "absolutrevive.gui.execute_received": "%s님이 당신을 처형했습니다.",
+
+  "absolutrevive.gui.rescue_prompt_title": "%s 구출하기",
+  "absolutrevive.gui.rescue_prompt_item": "구출하려면 치료 아이템을 들고 있으세요.",
+  "absolutrevive.gui.execute_prompt_title": "%s 처형하기",
+  "absolutrevive.gui.rescue_execute_prompt_title": "%1$s 또는 %2$s %3$s",
+  "absolutrevive.gui.rescue_execute_prompt_item": "치료 아이템을 들어 %1$s 하거나, 무기/도구를 들어 %2$s 하세요.",
+  "absolutrevive.gui.rescue_prompt_crouch": "대상 옆에서 %s초 동안 웅크리세요.",
+  "absolutrevive.gui.execute_prompt_crouch": "처형하려면 대상 옆에서 %s초 동안 웅크리세요.",
+  "absolutrevive.gui.rescue_progress": "구출 중: %s / %s 초",
+  "absolutrevive.gui.execute_progress": "처형 중: %s / %s 초",
+  "absolutrevive.gui.prompt_action_rescue": "구출",
+  "absolutrevive.gui.prompt_action_execute": "처형",
+  "absolutrevive.jei.defibrillator.desc": "의식을 잃은 플레이어 옆에서 3초 동안 웅크려 소생시킵니다. 대상은 4칸의 체력으로 깨어납니다. 이 아이템은 3번 사용할 수 있습니다."
+}
