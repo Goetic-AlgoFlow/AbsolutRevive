@@ -1,18 +1,23 @@
 AbsolutRevive
 
-AbsolutRevive is a Minecraft (Fabric) mod that revolutionizes multiplayer death. Instead of dying instantly and dropping all your items on the ground, you fall into an immersive KO (Unconscious) state. Your allies can save you... or your enemies can loot and execute you.
+Quick Overview (TL;DR)
+No more instant death and scattered equipment! AbsolutRevive puts you in a KO (Unconscious) state when your health drops to zero.
 
-Ideal for RP, PvP/Factions, or hardcore cooperative survival servers.
+Cooperation: Your allies have 90 seconds to save you with their bare hands or a Defibrillator.
 
-(Suggestion: A screenshot of a player lying unconscious on the ground with a dark/vignette effect or in a combat situation).
+Betrayal: Your enemies can open your inventory to loot you, then execute you.
+
+Ideal for RP, PvP/Factions servers, or hardcore cooperative survival!
+
+(Suggestion: A screenshot of a player lying unconscious on the ground with a darkening effect or in a combat situation).
 
 Main Features
 
 Fluid and Realistic KO Animation
 
-When your health reaches zero, you do not die immediately. Your character collapses to the ground with a clean and perfectly synchronized 3D animation (arms, legs, and skin layers adapt perfectly to the ground).
+When your health drops to zero, you do not die immediately. Your character collapses to the ground with a clean and perfectly synchronized 3D animation (arms, legs, and skin layers adapt perfectly to the ground).
 
-During this time, you cannot move or open your inventory.
+During this time, you can no longer move or open your inventory.
 
 Monsters stop attacking you, giving you a chance to be saved.
 
@@ -24,15 +29,15 @@ Searchable Inventory (Looting)
 
 This is the major innovation of the mod. When a player is KO, any other player can approach and right-click to search their inventory.
 
-(Suggestion: A screenshot showing the custom loot GUI where a player is stealing items from the downed player's inventory).
+(Suggestion: A screenshot showing the custom loot interface where a player is stealing items from the downed player's inventory).
 
-A custom graphical interface (GUI) opens.
+A custom graphical user interface (GUI) opens.
 
-The looter can view and interact with the armor, main hand, off-hand, and full inventory of the victim.
+The looter can view and interact with the victim's armor, main hand, off-hand, and full inventory.
 
 "Searching" sound effects are played to alert nearby players.
 
-Perfect for taking hostages, stealing loot, or conversely, securing a fallen ally's gear.
+Perfect for taking hostages, stealing loot, or conversely, securing the equipment of a fallen ally.
 
 Defibrillator and Revive
 
@@ -44,7 +49,7 @@ With the Defibrillator (Emergency revive): An ally sneaks with the new Defibrill
 
 The Defibrillator has 3 uses before breaking.
 
-(Suggestion: An action shot of a standing player holding the Defibrillator item while sneaking next to a downed friend).
+(Suggestion: An action shot of a standing player holding the Defibrillator while sneaking next to a downed friend).
 
 Give Up
 
@@ -52,18 +57,18 @@ No allies nearby? Stuck in a hopeless situation? Hold the Give Up key (configura
 
 Totem of Undying Compatibility
 
-The mod respects Vanilla mechanics. If you take a fatal blow while holding a Totem of Undying, the Totem activates first. You recover health, get your potion effects, and completely avoid the KO state.
+The mod respects Vanilla mechanics. If you take a fatal blow while holding a Totem of Undying, the Totem activates first. You recover health, benefit from your potion effects, and completely avoid the KO state.
 
 Crafting and Recipes
 
 Defibrillator
 The essential tool for the combat medic.
 
-4x Iron Ingot
+4x Iron Ingots
 
 2x Redstone Dust
 
-2x Copper Ingot
+2x Copper Ingots
 
 1x Golden Apple (in the center)
 
@@ -95,4 +100,4 @@ Launch the game.
 
 License and Open Source
 
-This project is completely Open Source and released under a free license. Feel free to check the source code, fork it, or contribute to its development on our GitHub repository.
+This project is entirely Open Source and distributed under the GNU License (General Public License). Feel free to check the source code, fork it, or contribute to its development on our GitHub repository.
