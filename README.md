@@ -9,7 +9,6 @@ Betrayal: Your enemies can open your inventory to loot you, then execute you.
 
 Ideal for RP, PvP/Factions servers, or hardcore cooperative survival!
 
-(Suggestion: A screenshot of a player lying unconscious on the ground with a darkening effect or in a combat situation).
 
 Main Features
 
@@ -29,7 +28,6 @@ Searchable Inventory (Looting)
 
 This is the major innovation of the mod. When a player is KO, any other player can approach and right-click to search their inventory.
 
-(Suggestion: A screenshot showing the custom loot interface where a player is stealing items from the downed player's inventory).
 
 A custom graphical user interface (GUI) opens.
 
@@ -49,7 +47,6 @@ With the Defibrillator (Emergency revive): An ally sneaks with the new Defibrill
 
 The Defibrillator has 3 uses before breaking.
 
-(Suggestion: An action shot of a standing player holding the Defibrillator while sneaking next to a downed friend).
 
 Give Up
 
@@ -72,7 +69,6 @@ The essential tool for the combat medic.
 
 1x Golden Apple (in the center)
 
-(Suggestion: A simple screenshot of the crafting table grid showing the Defibrillator recipe).
 
 (The mod is 100% compatible with JEI / REI to view the recipe and read the item's usage instructions).
 
