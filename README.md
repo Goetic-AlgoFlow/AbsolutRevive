@@ -1,6 +1,6 @@
 AbsolutRevive
 
-Quick Overview (TL;DR)
+Quick Overview
 No more instant death and scattered equipment! AbsolutRevive puts you in a KO (Unconscious) state when your health drops to zero.
 
 Cooperation: Your allies have 90 seconds to save you with their bare hands or a Defibrillator.
