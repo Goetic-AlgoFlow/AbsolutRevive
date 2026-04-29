@@ -76,7 +76,7 @@ Installation
 
 Requirements:
 
-Minecraft 1.21.1 (Fabric)
+Minecraft 1.21.11 (Fabric)
 
 Fabric Loader
 
